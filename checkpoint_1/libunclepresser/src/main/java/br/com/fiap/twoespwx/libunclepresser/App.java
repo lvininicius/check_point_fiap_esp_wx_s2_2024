@@ -12,12 +12,15 @@
  */
 
 package br.com.fiap.twoespwx.libunclepresser;
-
+import java.io.file;
+import java.io.IOException;
 
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println("LIB UNCLE PRESSER - GRUPO BATATA-DOCE");
+        if(args.length != 2){
+            System.err.println("")
+        };
     }
 }
