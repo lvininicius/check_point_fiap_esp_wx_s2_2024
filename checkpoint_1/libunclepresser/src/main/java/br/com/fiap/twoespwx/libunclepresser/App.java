@@ -3,7 +3,7 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
  *
- * Grupo: Batata Doce
+ * Grupo: LUCAS VINICIUS
  * Autores: 
  *     
  *  LUCAS VINICIUS DE ALMEIDA BRIGIDA - RM99094      
@@ -19,8 +19,13 @@ public class App
 {
     public static void main( String[] args )
     {
-        if(args.length != 2){
-            System.err.println("teste 1")
-        };
+        StringBuilder comprimido = StringBuilder();
+        int contagem =1; // contagem de caracters
+
+        for(int i = 0; 1 < entrada.length(); i++){
+            //verificando proximo caractere é igual ao atual
+            if(i+1 < entrada.length()&& entrada.charAT())
+        }
+
     }
 }
