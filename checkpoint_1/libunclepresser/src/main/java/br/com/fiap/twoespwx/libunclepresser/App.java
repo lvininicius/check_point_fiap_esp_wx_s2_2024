@@ -5,10 +5,10 @@
  *
  * Grupo: Batata Doce
  * Autores: 
- *      - João da Silva     -   jaodasilva@example.com
- *      - Jose da Silva     -   zedasilva@example.com
- *      - Maria da Silva    -   marydasilva@example.com
- *      - Monica da Silva   -   nicadasilva@example.com
+ *     
+ *  LUCAS VINICIUS DE ALMEIDA BRIGIDA - RM99094      
+ *      
+ *      
  */
 
 package br.com.fiap.twoespwx.libunclepresser;
@@ -20,7 +20,7 @@ public class App
     public static void main( String[] args )
     {
         if(args.length != 2){
-            System.err.println("")
+            System.err.println("teste 1")
         };
     }
 }
